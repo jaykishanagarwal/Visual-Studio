@@ -1,1 +1,2 @@
-# Visual-Studio
+# collisionAlgorithm
+Algorithm to detect collision between two objects
